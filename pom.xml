@@ -61,7 +61,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>xyz.mglolenstine.CMPL.main</mainClass>
+                            <mainClass>xyz.mglolenstine.CMPL.Main</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
